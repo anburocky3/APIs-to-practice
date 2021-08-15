@@ -41,16 +41,16 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [TMDb](https://www.themoviedb.org/documentation/api) | Community-based movie data | `apiKey` | Yes | Unknown |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
-| [Number API](http://numbersapi.com/) | Fact of numbers | `apiKey` | Yes | No |
+| [Number API](http://numbersapi.com/) | Facts of number | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
 ### Games & Comics
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [PokeApi](https://pokeapi.co/) | Pokemon API | `apiKey` | Yes | No |
-| [The Star Wars API](https://swapi.dev/) | Star wars API | `apiKey` | Yes | No |
+| [PokeApi](https://pokeapi.co/) | Pokemon API | No | Yes | Unknown |
 | [Marvel API](https://developer.marvel.com/) | Marvel API | `apiKey` | Yes | Yes |
+| [The Star wars API](https://swapi.dev/) | Star wars API | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
