@@ -7,7 +7,7 @@ Best API's to practice for any demonstration purpose. Feel free to add a PR if y
 * [Entertainment](#entertainment)
 * [Finance](#finance)  (Will add later)
 * [Food & Drink](#food--drink)
-* [Games & Comics](#games--comics)  (Will add later)
+* [Games & Comics](#games--comics)
 * [Health](#health)  (Will add later)
 * [Music](#music)  (Will add later)
 * [News](#news)  (Will add later)
@@ -41,6 +41,16 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [TMDb](https://www.themoviedb.org/documentation/api) | Community-based movie data | `apiKey` | Yes | Unknown |
 | [Open Movie Database](http://www.omdbapi.com/) | Movie information | `apiKey` | Yes | Unknown |
+| [Number API](http://numbersapi.com/) | Fact of numbers | `apiKey` | Yes | No |
+
+**[⬆ Back to Index](#index)**
+
+### Games & Comics
+API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [PokeApi](https://pokeapi.co/) | Pokemon API | `apiKey` | Yes | No |
+| [The Star Wars API](https://swapi.dev/) | Star wars API | `apiKey` | Yes | No |
+| [Marvel API](https://developer.marvel.com/) | Marvel API | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
