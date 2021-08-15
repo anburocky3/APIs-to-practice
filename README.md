@@ -49,6 +49,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [PokeApi](https://pokeapi.co/) | Pokemon API | No | Yes | Unknown |
+| [Marvel API](https://developer.marvel.com/) | Marvel API | `apiKey` | Yes | Yes |
 | [The Star wars API](https://swapi.dev/) | Star wars API | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
